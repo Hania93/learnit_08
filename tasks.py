@@ -243,4 +243,5 @@ def task_10():
     except Exception as e:
         print(f"Wystąpił inny nieoczekiwany błąd: {e}")
 
-task_9()
+
+task_10()
